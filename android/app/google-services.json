@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104009044378",
+    "firebase_url": "https://mymusic-85dab.firebaseio.com",
+    "project_id": "mymusic-85dab",
+    "storage_bucket": "mymusic-85dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104009044378:android:de854642be227691dcaa23",
+        "android_client_info": {
+          "package_name": "com.islam.fab_animation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104009044378-p47f5fpufphjdpms98rp1ju40hfqm1k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPeJSPTdWkOsRAMj_F-1PX7TATC3-r4mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104009044378-p47f5fpufphjdpms98rp1ju40hfqm1k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
